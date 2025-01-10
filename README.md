@@ -1,3 +1,5 @@
+# Instagram Bot - Premium Extension Chrome
+
 # Contato para Dúvidas de Instalação
 
 Se você tiver dúvidas ou problemas durante o processo de instalação, sinta-se à vontade para entrar em contato comigo pelo Instagram. Estou aqui para ajudar!  
