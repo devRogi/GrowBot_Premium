@@ -32,13 +32,13 @@ Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv
 ## 🌎 Idiomas Disponíveis
 
 ### Português
-Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **$9 (USD) ou R$30 (BRL)**.
+Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL)**.
 
 ### English
-Boost your productivity with our Modified Automation Bot! Enjoy full premium access and continuous updates for just **$9 (USD) or R$30 (BRL)**.
+Boost your productivity with our Modified Automation Bot! Enjoy full premium access and continuous updates for just **$9 (USD)**.
 
 ### Español
-Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD) o R$30 (BRL)**.
+Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD)**.
 
 ## 📲 QR Code para Transferência 
 
