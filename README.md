@@ -1,28 +1,39 @@
-# Instagram Bot - Premium Extension Chrome
+# Instagram Bot de Automação Modificado - Acesso Premium Completo 
 
-# Contato para Dúvidas de Instalação
+Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL) ou $9 (USD)**.
 
-Se você tiver dúvidas ou problemas durante o processo de instalação, sinta-se à vontade para entrar em contato comigo pelo Instagram. Estou aqui para ajudar!  
+## 🚀 Características
+- **Acesso Premium Completo**: Desfrute de todas as funcionalidades sem limitações.
+- **Atualizações Contínuas**: Receba todas as novidades e melhorias.
 
-📲 [Meu Instagram](https://www.instagram.com/roge_rdv)
+  ### Español
+- **Acceso Premium completo**: disfruta de todas las funciones sin limitaciones.
+- **Actualizaciones Continuas**: Recibe todas las últimas novedades y mejoras.
+
+### English
+- **Full Premium Access**: Enjoy all features without limitations.
+- **Continuous Updates**: Receive all the latest news and improvements.
+
+## 💳 Meios de Pagamento | Payment Methods | Métodos de pago
+- Pix
+- Boleto
+- Transferência Bancária
+- PayPal
+
+## 📱 Envio de Comprovante
+Envie seu comprovante de pagamento via Telegram para [Seu Telegram].
+
+## 🌎 Idiomas Disponíveis
+
+### Português
+Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **$9 (USD) ou R$30 (BRL)**.
+
+### English
+Boost your productivity with our Modified Automation Bot! Enjoy full premium access and continuous updates for just **$9 (USD) or R$30 (BRL)**.
+
+### Español
+Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD) o R$30 (BRL)**.
 
 ---
 
-## 🇧🇷 Português  
-Se você tiver dúvidas sobre a instalação, por favor, envie-me uma mensagem direta no Instagram. Será um prazer ajudá-lo(a)!  
-
-📲 [Meu Instagram](https://www.instagram.com/roge_rdv)
-
----
-
-## 🇺🇸 English  
-If you have any questions about the installation process, feel free to send me a direct message on Instagram. I'll be happy to assist you!  
-
-📲 [My Instagram](https://www.instagram.com/roge_rdv)
-
----
-
-## 🇪🇸 Español  
-Si tienes dudas sobre el proceso de instalación, no dudes en enviarme un mensaje directo en Instagram. ¡Estaré encantado(a) de ayudarte!  
-
-📲 [Mi Instagram](https://www.instagram.com/roge_rdv)
+Não perca tempo - otimize suas tarefas agora!
