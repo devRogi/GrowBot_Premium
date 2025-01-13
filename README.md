@@ -1,4 +1,4 @@
-# Instagram Bot Modificado - Acesso Premium Completo 
+# Instagram Bot Modificado - Acesso Premium Completo
 
 Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL) ou $9 (USD)**.
 
@@ -8,11 +8,11 @@ Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso
 - **Acesso Premium Completo**: Desfrute de todas as funcionalidades sem limitações.
 - **Atualizações Contínuas**: Receba todas as novidades e melhorias.
 
-  ### Español
-- **Acceso Premium completo**: disfruta de todas las funciones sin limitaciones.
+### Español
+- **Acceso Premium Completo**: Disfruta de todas las funciones sin limitaciones.
 - **Actualizaciones Continuas**: Recibe todas las últimas novedades y mejoras.
 
- ### English
+### English
 - **Full Premium Access**: Enjoy all features without limitations.
 - **Continuous Updates**: Receive all the latest news and improvements.
 
@@ -28,6 +28,14 @@ Envie seu comprovante de pagamento via Telegram para [Seu Telegram].
 Send your proof of payment via Telegram to [Your Telegram].
 
 Envía tu comprobante de pago vía Telegram a [Tu Telegram].
+
+## 📷 Seção de Fotos
+Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
+
+## 📲 QR Code para Transferência
+Escaneie o QR code abaixo para realizar a transferência de pagamento.
+
+![QR Code](URL_DO_SEU_QR_CODE_AQUI)
 
 ## 🌎 Idiomas Disponíveis
 
