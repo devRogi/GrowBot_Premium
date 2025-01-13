@@ -25,6 +25,10 @@ Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso
 ## 📱 Envio de Comprovante
 Envie seu comprovante de pagamento via Telegram para [Seu Telegram].
 
+Send your proof of payment via Telegram to [Your Telegram].
+
+Envía tu comprobante de pago vía Telegram a [Tu Telegram].
+
 ## 🌎 Idiomas Disponíveis
 
 ### Português
