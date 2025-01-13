@@ -29,17 +29,6 @@ Send your proof of payment via Telegram to [[roge_rdv]](https://t.me/roge_rdv).
 
 Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv).
 
-## 📷 Seção de Fotos
-Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
-
-## 📲 QR Code para Transferência 
-
-(Only for those who have PIX | Solo para aquellos que tengan PIX)
-
-## Escaneie o QR code abaixo para realizar a transferência de pagamento.
-
-<img src="https://github.com/user-attachments/assets/8e5ed90c-c1e8-42b5-a7fb-12fcc8d0166c" alt="nubank" width="200"/>
-
 ## 🌎 Idiomas Disponíveis
 
 ### Português
@@ -51,6 +40,17 @@ Boost your productivity with our Modified Automation Bot! Enjoy full premium acc
 ### Español
 Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD) o R$30 (BRL)**.
 
+## 📲 QR Code para Transferência 
+
+(Only for those who have PIX | Solo para aquellos que tengan PIX)
+
+## Escaneie o QR code abaixo para realizar a transferência de pagamento.
+
+<img src="https://github.com/user-attachments/assets/8e5ed90c-c1e8-42b5-a7fb-12fcc8d0166c" alt="nubank" width="200"/>
+
+
+## 📷 Seção de Fotos
+Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
 ---
 
 Não perca tempo - otimize suas tarefas agora!
