@@ -32,10 +32,10 @@ Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv
 ## 📷 Seção de Fotos
 Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
 
-## 📲 QR Code para Transferência
+## 📲 QR Code para Transferência (Only for those who have PIX | Solo para aquellos que tengan PIX)
 Escaneie o QR code abaixo para realizar a transferência de pagamento.
 
-![QR Code](URL_DO_SEU_QR_CODE_AQUI)
+<img src="https://github.com/user-attachments/assets/8e5ed90c-c1e8-42b5-a7fb-12fcc8d0166c" alt="nubank" width="200"/>
 
 ## 🌎 Idiomas Disponíveis
 
