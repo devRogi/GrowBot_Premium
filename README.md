@@ -23,11 +23,11 @@ Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso
 - PayPal
 
 ## 📱 Envio de Comprovante
-Envie seu comprovante de pagamento via Telegram para [[Seu Telegram]](https://t.me/roge_rdv).
+Envie seu comprovante de pagamento via Telegram para [[roge_rdv]](https://t.me/roge_rdv).
 
-Send your proof of payment via Telegram to [Your Telegram].
+Send your proof of payment via Telegram to [[roge_rdv]](https://t.me/roge_rdv).
 
-Envía tu comprobante de pago vía Telegram a [Tu Telegram].
+Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv).
 
 ## 📷 Seção de Fotos
 Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
