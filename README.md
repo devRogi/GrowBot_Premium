@@ -37,8 +37,6 @@ Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta 
 
 ## 💳 Meios de Pagamento | Payment Methods | Métodos de pago
 - Pix
-- Boleto
-- Transferência Bancária
 - PayPal
 
 ## 📱 Envio de Comprovante
