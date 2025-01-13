@@ -1,6 +1,6 @@
 # Instagram Bot Modificado - Acesso Premium Completo
 
-Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL) ou $9 (USD)**.
+Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL) ou $9 (USD)**. **Pagamento único** para acesso completo!
 
 ## 🚀 Características:
 
@@ -19,13 +19,13 @@ Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso
 ## 🌎 Idiomas Disponíveis
 
 ### Português
-Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL)**.
+Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL)**. **Pagamento único** para acesso completo!
 
 ### English
-Boost your productivity with our Modified Automation Bot! Enjoy full premium access and continuous updates for just **$9 (USD)**.
+Boost your productivity with our Modified Automation Bot! Enjoy full premium access and continuous updates for just **$9 (USD)**. **One-time payment** for complete access!
 
 ### Español
-Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD)**.
+Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD)**. **Pago único** para acceso completo!
 
 ## 📲 QR Code para Transferência 
 
@@ -48,6 +48,7 @@ Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv
 
 ## 📷 Seção de Fotos
 Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
+
 ---
 
 Não perca tempo - otimize suas tarefas agora!
