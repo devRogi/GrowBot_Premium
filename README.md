@@ -16,19 +16,6 @@ Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso
 - **Full Premium Access**: Enjoy all features without limitations.
 - **Continuous Updates**: Receive all the latest news and improvements.
 
-## 💳 Meios de Pagamento | Payment Methods | Métodos de pago
-- Pix
-- Boleto
-- Transferência Bancária
-- PayPal
-
-## 📱 Envio de Comprovante
-Envie seu comprovante de pagamento via Telegram para [[roge_rdv]](https://t.me/roge_rdv).
-
-Send your proof of payment via Telegram to [[roge_rdv]](https://t.me/roge_rdv).
-
-Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv).
-
 ## 🌎 Idiomas Disponíveis
 
 ### Português
@@ -48,6 +35,18 @@ Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta 
 
 <img src="https://github.com/user-attachments/assets/8e5ed90c-c1e8-42b5-a7fb-12fcc8d0166c" alt="nubank" width="200"/>
 
+## 💳 Meios de Pagamento | Payment Methods | Métodos de pago
+- Pix
+- Boleto
+- Transferência Bancária
+- PayPal
+
+## 📱 Envio de Comprovante
+Envie seu comprovante de pagamento via Telegram para [[roge_rdv]](https://t.me/roge_rdv).
+
+Send your proof of payment via Telegram to [[roge_rdv]](https://t.me/roge_rdv).
+
+Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv).
 
 ## 📷 Seção de Fotos
 Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
