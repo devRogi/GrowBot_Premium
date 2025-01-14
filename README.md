@@ -43,8 +43,9 @@ Send your proof of payment via Telegram to [[roge_rdv]](https://t.me/roge_rdv).
 Envía tu comprobante de pago vía Telegram a [[roge_rdv]](https://t.me/roge_rdv).
 
 ## 📷 Seção de Fotos
-Adicione aqui algumas fotos do Bot em ação para que os usuários possam ver como ele funciona.
-
+![{EFDF0AE6-ED5C-47C6-B7E2-A2844E0034FC}](https://github.com/user-attachments/assets/87802b09-335b-4d20-9fdf-316029d97ec5)
+![{F2E6B669-A7F0-4A3B-A587-2E581037CD59}](https://github.com/user-attachments/assets/3efefcc6-a357-4279-9072-b86059972217)
+![{DA51C5FE-A624-458C-9F1A-5C3366C2A504}](https://github.com/user-attachments/assets/11024ef2-a802-4809-a8b6-8c57e7ed2be8)
 ---
 
 Não perca tempo - otimize suas tarefas agora!
