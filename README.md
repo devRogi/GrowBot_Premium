@@ -1,4 +1,4 @@
-# Instagram Bot Modificado - Acesso Premium Completo
+# Grow Bot Premium Completo
 
 Transforme sua produtividade com nosso Bot de Automação Modificado! Com acesso premium e completo, você terá atualizações contínuas por apenas **R$30 (BRL) ou $9 (USD)**. **Pagamento único** para acesso completo!
 
