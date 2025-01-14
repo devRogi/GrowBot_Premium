@@ -31,9 +31,9 @@ Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta 
 
 <img src="https://github.com/user-attachments/assets/8e5ed90c-c1e8-42b5-a7fb-12fcc8d0166c" alt="nubank" width="200"/>
 
-## 💳 Payment Methods | Métodos de pago
-- Pix
-- PayPal
+## 💳 Payment Methods | Métodos de pago (Only for those paying in dollars)
+- PayPal (fretur.hater666@gmail.com)
+- [Wise](https://wise.com/pay/me/rogerdavidr1)
 
 ## 📱 Envio de Comprovante
 Envie seu comprovante de pagamento via Telegram para [[roge_rdv]](https://t.me/roge_rdv).
