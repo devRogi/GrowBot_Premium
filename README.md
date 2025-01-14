@@ -27,15 +27,11 @@ Boost your productivity with our Modified Automation Bot! Enjoy full premium acc
 ### Español
 Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta de acceso premium completo y actualizaciones continuas por solo **$9 (USD)**. **Pago único** para acceso completo!
 
-## 📲 QR Code para Transferência 
-
-(Only for those who have PIX | Solo para aquellos que tengan PIX)
-
-## Escaneie o QR code abaixo para realizar a transferência de pagamento.
+## 💳 Pix para Pagamento (30 reais)
 
 <img src="https://github.com/user-attachments/assets/8e5ed90c-c1e8-42b5-a7fb-12fcc8d0166c" alt="nubank" width="200"/>
 
-## 💳 Meios de Pagamento | Payment Methods | Métodos de pago
+## 💳 Payment Methods | Métodos de pago
 - Pix
 - PayPal
 
