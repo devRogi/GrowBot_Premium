@@ -36,7 +36,7 @@ Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta 
  
 - [Wise](https://wise.com/pay/me/rogerdavidr1)
  
-- [Stripe](https://buy.stripe.com/eVag2b89j15vgzC288)
+- [Stripe](https://buy.stripe.com/eVag2b89j15vgzC288):
 <img src="https://github.com/user-attachments/assets/e5ec1faa-d7a8-40b8-99fb-3eaa1c050840" alt="Stripe" width="200"/>
 
 
