@@ -33,8 +33,13 @@ Mejora tu productividad con nuestro Bot de Automatización Modificado! Disfruta 
 
 ## 💳 Payment Methods | Métodos de pago (Only for those paying in dollars)
 - PayPal (fretur.hater666@gmail.com)
+ 
 - [Wise](https://wise.com/pay/me/rogerdavidr1)
+ 
 - [Stripe](https://buy.stripe.com/eVag2b89j15vgzC288)
+<img src="https://github.com/user-attachments/assets/e5ec1faa-d7a8-40b8-99fb-3eaa1c050840" alt="Stripe" width="200"/>
+
+
 
 ## 📱 Envio de Comprovante
 Envie seu comprovante de pagamento via Telegram para [[roge_rdv]](https://t.me/roge_rdv).
