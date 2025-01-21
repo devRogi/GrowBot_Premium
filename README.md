@@ -4,7 +4,7 @@ GrowBot Modificado! Com acesso premium e completo, você terá atualizações co
 
 
 ## 📱 CONTACT ME
- <a href="https://t.me/roge_rdv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <a href="https://t.me/Insta_premium_growbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 ## 🚀 Características:
 
