@@ -3,7 +3,7 @@
 GrowBot Modificado! Com acesso premium e completo, você terá atualizações contínuas.
 
 
-## 📱 CONTACT ME
+## 📱 CONTACT ME | Chamar Telegram
  <a href="https://t.me/InstaGrowPremium_bot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 ## 🚀 Características:
